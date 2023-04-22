@@ -120,6 +120,10 @@ cursor: pointer;
 .featured-content{
     height: 50vh;
     padding: 30px;
+    background:linear-gradient(to bottom, rgba(0,0,0,0), #151515), url(/assets/joker.jpg);
+    background-image: url(/assets/action.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .featured-title{
     width: 400px;
